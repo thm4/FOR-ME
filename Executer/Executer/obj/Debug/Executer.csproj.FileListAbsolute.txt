@@ -1,0 +1,15 @@
+C:\Users\kiki\source\repos\Executer\Executer\bin\Debug\Executer.exe.config
+C:\Users\kiki\source\repos\Executer\Executer\bin\Debug\Executer.exe
+C:\Users\kiki\source\repos\Executer\Executer\bin\Debug\Executer.pdb
+C:\Users\kiki\source\repos\Executer\Executer\bin\Debug\FastColoredTextBox.dll
+C:\Users\kiki\source\repos\Executer\Executer\obj\Debug\Executer.csproj.AssemblyReference.cache
+C:\Users\kiki\source\repos\Executer\Executer\obj\Debug\Executer.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiki\source\repos\Executer\Executer\obj\Debug\Executer.Form1.resources
+C:\Users\kiki\source\repos\Executer\Executer\obj\Debug\Executer.Properties.Resources.resources
+C:\Users\kiki\source\repos\Executer\Executer\obj\Debug\Executer.csproj.GenerateResource.cache
+C:\Users\kiki\source\repos\Executer\Executer\obj\Debug\Executer.csproj.CoreCompileInputs.cache
+C:\Users\kiki\source\repos\Executer\Executer\obj\Debug\Executer.csproj.CopyComplete
+C:\Users\kiki\source\repos\Executer\Executer\obj\Debug\Executer.exe
+C:\Users\kiki\source\repos\Executer\Executer\obj\Debug\Executer.pdb
+C:\Users\kiki\source\repos\Executer\Executer\bin\Debug\WeAreDevs_API.dll
+C:\Users\kiki\source\repos\Executer\Executer\bin\Debug\Newtonsoft.Json.dll
